@@ -1,17 +1,19 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-This project was created on 10/27/2022
+Include the date you created this project and README file.
+Project created on 10/26/2022
 
 ### Project Title
-Data Analysis of Bike Share program
+Title: Bikeshare Project for Udacity Course
 
 ### Description
-Describe what your project is about and what it does
+Takes in user input, reads from csv and provides valuable insight from 
+dataframe.
 
 ### Files used
-Include the files used
+chicago.csv, new_york_city.csv, washinton.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thank you Udacity for a wonderful tutorial. I feel confident in my data analysis skills and ability to post work on Github and make changes strategically with git. I can't wait to apply this in the workplace. 
 
