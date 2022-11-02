@@ -15,5 +15,5 @@ dataframe.
 chicago.csv, new_york_city.csv, washinton.csv
 
 ### Credits
-Thank you Udacity for a wonderful tutorial. I feel confident in my data analysis skills and ability to post work on Github and make changes strategically with git. 
+Thank you Udacity for a wonderful tutorial. I feel confident in my data analysis skills and ability to post work on Github and make changes strategically with git. I can't wait to apply this in the workplace. 
 
