@@ -1,6 +1,5 @@
 from os import chdir
 import time
-from turtle import down
 import pandas as pd
 import numpy as np
 
